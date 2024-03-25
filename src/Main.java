@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Система расчёта стоимости топлива");
 
         int fuelTipe = 92;
-        int amout = 9;
+        int amout = 15;
         boolean hasDiscount = amout > 10;
 
         double fuel92price = 60.2;
