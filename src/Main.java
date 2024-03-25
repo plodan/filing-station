@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Система расчёта стоимости топлива");
+        System.out.println("Система расчёта стоимости бензина");
 
         int fuelTipe = 92;
-        int amout = 9;
+        int amout = 10;
         boolean hasDiscount = amout > 10;
 
         double fuel92price = 60.2;
